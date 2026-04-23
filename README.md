@@ -26,7 +26,7 @@ I enjoy creating practical projects that solve real problems — from financial 
 
 | Project | Description | Tech |
 |---|---|---|
-| [Financial Control](https://github.com/TeodoroGabriel) | Personal finance manager | Python |
+| [Financial Control]([https://github.com/TeodoroGabriel](https://github.com/TeodoroGabriel/controle-financeiro/blob/main/controle_financeiro.py)) | Personal finance manager | Python |
 | [Financial Control v2](https://github.com/TeodoroGabriel) | Improved version with new features | Python |
 | [Bank API](https://github.com/TeodoroGabriel) | REST API for banking operations | Python |
 
