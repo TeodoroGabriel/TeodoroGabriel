@@ -33,11 +33,11 @@ I am a backend developer from Brazil 🇧🇷 focused on **Python**, building RE
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Languages
 
 <div align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TeodoroGabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoroGabriel&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+  <img height="165em" src="https://streak-stats.demolab.com?user=TeodoroGabriel&theme=dark&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TeodoroGabriel&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 </div>
 
 ---
