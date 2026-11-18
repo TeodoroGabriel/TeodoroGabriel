@@ -28,9 +28,8 @@ I am a backend developer from Brazil 🇧🇷 focused on **Python**, building RE
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Financial Control](https://github.com/TeodoroGabriel)** | Personal finance management system[cite: 4] | Python[cite: 4] |
-| **[Financial Control v2](https://github.com/TeodoroGabriel)** | Improved version with expanded features and structure[cite: 4] | Python[cite: 4] |
-| **[Bank API](https://github.com/TeodoroGabriel)** | REST API simulating core banking operations[cite: 4] | Python, REST[cite: 4] |
+| **[Financial Control]([https://github.com/TeodoroGabriel](https://github.com/TeodoroGabriel/controle-financeiro))** | Personal finance management system[cite: 4] | Python[cite: 4] |
+| **[Bank API]([https://github.com/TeodoroGabriel](https://github.com/TeodoroGabriel/bank-api))** | REST API simulating core banking operations[cite: 4] | Python, REST[cite: 4] |
 
 ---
 
